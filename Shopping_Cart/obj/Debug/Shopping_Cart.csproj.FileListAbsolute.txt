@@ -1,0 +1,7 @@
+C:\Data\ShoppingCart\Shopping_Cart\bin\Debug\Apttus.ShoppingCart.Product.pdb
+C:\Data\ShoppingCart\Shopping_Cart\obj\Debug\Shopping_Cart.csprojResolveAssemblyReference.cache
+C:\Data\ShoppingCart\Shopping_Cart\bin\Debug\Apttus.ShoppingCart.Product.Model.exe.config
+C:\Data\ShoppingCart\Shopping_Cart\bin\Debug\Apttus.ShoppingCart.Product.Model.exe
+C:\Data\ShoppingCart\Shopping_Cart\bin\Debug\Apttus.ShoppingCart.Product.Model.pdb
+C:\Data\ShoppingCart\Shopping_Cart\obj\Debug\Apttus.ShoppingCart.Product.Model.exe
+C:\Data\ShoppingCart\Shopping_Cart\obj\Debug\Apttus.ShoppingCart.Product.Model.pdb

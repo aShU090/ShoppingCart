@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Products>
+  <Product>
+    <id>bk101</id>
+    <Name>IPhone 5</Name>
+    <Description>It has a 4.7-inch screen, compared to the four-inch screen </Description>
+    <price>42,000</price>
+  </Product>
+  <Product>
+    <id>bk102</id>
+    <Name>HeadPhone</Name>
+    <Description>Sony MDR-ZX110A On-Ear Stereo Headphones (White) </Description>
+    <price>649</price>
+  </Product>
+  <Product>
+    <id>bk103</id>
+    <Name>Pendrive</Name>
+    <Description>HP v215b 8GB Pen Drive </Description>
+    <price>600</price>
+  </Product>
+  <Product>
+    <id>bk104</id>
+    <Name>Mouse</Name>
+    <Description>HP v215b 8GB Pen Drive </Description>
+    <price>600</price>
+  </Product>
+</Products>
